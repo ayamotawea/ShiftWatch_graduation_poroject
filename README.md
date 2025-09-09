@@ -14,6 +14,7 @@
 [![Firebase](https://img.shields.io/badge/Firebase-Realtime%20DB-yellow)]()
 [![Azure](https://img.shields.io/badge/Azure-Cloud%20Storage-blue)]()
 [![Flutter](https://img.shields.io/badge/Flutter-Mobile%20App-02569B)]()
+
 ShiftWatch is an **AI-powered real-time employee tracking and monitoring system** that combines:
 - **YOLOv8** for face detection  
 - **DeepSORT** for identity-preserving tracking  

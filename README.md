@@ -153,7 +153,6 @@ If you use or reference this work, please cite:
 📧 Email: yoyomotawaa@gmail.com 
 🔗 LinkedIn: [linkedin.com/in/aya-motawea](www.linkedin.com/in/aya-motawea-661633251)  
 🐙 GitHub: [github.com/ayamotawea](https://github.com/ayamotawea)
-
 ---
 <p align="center">
   <img src="docs/logo_gp.png" alt="ShiftWatch Logo" width="100"/>

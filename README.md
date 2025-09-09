@@ -84,7 +84,7 @@ ShiftWatch is an **AI-powered real-time employee tracking and monitoring system*
 | **Recall**       | 0.849 |
 | **mAP@0.5**     | 0.903 |
 | **mAP@0.5:0.95**| 0.611 |
-| **FPS**         | 34.82 |
+| **FPS**         | 61.43 |
 
 ---
 

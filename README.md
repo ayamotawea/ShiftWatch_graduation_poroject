@@ -74,6 +74,7 @@ ShiftWatch is an **AI-powered real-time employee tracking and monitoring system*
 | YOLOv12n  | 0.0214                      | 41.30 |
 
 > **Selected Model:** YOLOv8n → Best trade-off between speed & accuracy.
+> ---
 > 
 ### **📈 Final Model Performance**
 
@@ -85,6 +86,7 @@ ShiftWatch is an **AI-powered real-time employee tracking and monitoring system*
 | **mAP@0.5:0.95**| 0.611 |
 | **FPS**         | 34.82 |
 
+---
 
 ### **🎯 Tracking Methods Comparison**
 
@@ -96,7 +98,7 @@ ShiftWatch is an **AI-powered real-time employee tracking and monitoring system*
 
 > **Selected Tracker:** **DeepSORT** → Better ID consistency + real-time speed.
 
-
+---
 
 ### **🖼 Sample Outputs (AI Models)**
 | Detection | Face Recognition | Final Results |
@@ -105,6 +107,7 @@ ShiftWatch is an **AI-powered real-time employee tracking and monitoring system*
 
 > **📂 For More Examples:** Check the [`results/`](results/) folder for additional detection, tracking, recognition, and dashboard outputs.
 
+---
 
 ### **📱 Mobile App Dashboards**
 

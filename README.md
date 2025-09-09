@@ -41,9 +41,9 @@ ShiftWatch is an **AI-powered real-time employee tracking and monitoring system*
 | **FPS**            | 34.8   |
 
 ### **Sample Outputs**
-| Detection | Tracking | Dashboard |
-|-----------|-----------|-----------|
-| ![](results/detection_example.jpg) | ![](results/tracking_example.gif) | ![](results/dashboard_screenshot.png) |
+| Detection | Face recognition | Final results |
+|-----------|-----------|-----------|-----------|
+| ![](results/face_detection_yolov8/3.jpg) | ![](results/face_recognition_results.png) | ![](results/final_system.png) |
 
 ---
 

@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="docs/logo_gp.png" alt="ShiftWatch Logo" width="180"/>
-</p>
 
-# ShiftWatch: Real-Time Workspace Employee Tracking & Monitoring System
+
+<img src="docs/logo_gp.png" alt="ShiftWatch Logo" width="150"/> # ShiftWatch: Real-Time Workspace Employee Tracking & Monitoring System
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue)]()
 [![YOLOv8](https://img.shields.io/badge/Model-YOLOv8-orange)]()

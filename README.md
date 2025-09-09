@@ -37,7 +37,7 @@ ShiftWatch is an **AI-powered real-time employee tracking and monitoring system*
 ## **📊 Results** 
 ### **⚡ YOLO Versions Comparison**
 
-![YOLO Comparison Graph](docs/yolo_comparison_graph.png)
+![YOLO Comparison Graph](docs/yolo_comparison_graph.PNG)
 
 
 | Model      | Inference Time (sec/frame) | FPS   |

@@ -5,8 +5,7 @@
 <p align="center">
   <img src="docs/logo_gp.png" alt="ShiftWatch Logo" width="400"/>
 </p>
-
-<h3 align="center">Developed by Techno Team | Kafrelsheikh University</h3>
+<h2 align="center">Developed by Techno Team | Kafrelsheikh University</h2>
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue)]()
 [![YOLOv8](https://img.shields.io/badge/YOLOv8-Object%20Detection-orange)]()

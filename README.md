@@ -82,7 +82,7 @@ The **ShiftWatch** mobile app, built with **Flutter**, provides real-time insigh
 It shows employee attendance, total hours, live alerts, and detailed dashboards.
 
 | Today Attendance Summary| Dashboard overview | Unauthorized Alerts |
-|--------------------|--------------------|---------------------|
+|--------------------|----------------------------------------|---------------------|
 | <img src="results/results_in_app/home_screen.PNG" width="250"/> | <img src="results/results_in_app/part1_dashboard_screen.PNG" width="250"/> <img src="results/results_in_app/part2_dashboard_screen.PNG" width="250"/>  | <img src="results/results_in_app/notifications_screen.PNG" width="250"/> |
 
 > **📂 For More App Screenshots:** Check the [`app_screens/`](results/results_in_app/) folder.

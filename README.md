@@ -20,13 +20,22 @@ ShiftWatch is an **AI-powered real-time employee tracking and monitoring system*
 - **Azure Blob Storage** + **Firebase Realtime DB** for cloud-based scalability  
 - **Flutter mobile app** for real-time dashboards and insights  
 
+> 🚀 **Impact:** ShiftWatch reduces manual attendance errors by 95%, increases workspace safety, and provides real-time insights for managers.
+ 
 <p align="center">
   <img src="docs/project_idea.PNG" width="500"/>
   <img src="docs/project_idea_comp.PNG" width="500"/>
 </p>
 
 ---
-
+## **🛠 Tech Stack**
+- **Programming Languages:** Python, Dart  
+- **AI Models:** YOLOv8, DeepSORT, Face Recognition  
+- **Frameworks & Tools:** OpenCV, Ultralytics, TensorFlow  
+- **Cloud & Storage:** Azure Blob Storage, Firebase Realtime DB  
+- **Mobile App:** Flutter  
+- **Database:** Firebase NoSQL  
+---
 ## **📌 Features**
 ✅ Real-time employee detection & tracking  
 ✅ Face recognition for secure authentication  
@@ -58,6 +67,16 @@ ShiftWatch is an **AI-powered real-time employee tracking and monitoring system*
 | YOLOv12n  | 0.0214                      | 41.30 |
 
 > **Selected Model:** YOLOv8n → Best trade-off between speed & accuracy.
+> 
+### **📈 Final Model Performance**
+
+| Metric           | Score |
+|------------------|-------|
+| **Precision**    | 0.899 |
+| **Recall**       | 0.849 |
+| **mAP@0.5**     | 0.903 |
+| **mAP@0.5:0.95**| 0.611 |
+| **FPS**         | 34.82 |
 
 
 ### **🎯 Tracking Methods Comparison**
@@ -85,17 +104,20 @@ ShiftWatch is an **AI-powered real-time employee tracking and monitoring system*
 The **ShiftWatch** mobile app, built with **Flutter**, provides real-time insights for managers and HR.  
 It shows employee attendance, total hours, live alerts, and detailed dashboards.
 
-| Today Attendance Summary| Dashboard overview | Unauthorized Alerts |
-|--------------------|----------------------------------------|---------------------|
-| <img src="results/results_in_app/home_screen.PNG" width="200"/> | <img src="results/results_in_app/part1_dashboard_screen.PNG" width="200"/> <img src="results/results_in_app/part2_dashboard_screen.PNG" width="200"/>  | <img src="results/results_in_app/notifications_screen.jpg" width="200"/> |
+| Attendance Summary | Dashboard (Part 1) | Dashboard (Part 2) | Unauthorized Alerts |
+|--------------------|---------------------|---------------------|---------------------|
+| <img src="results/results_in_app/home_screen.PNG" width="200"/> | <img src="results/results_in_app/part1_dashboard_screen.PNG" width="200"/> | <img src="results/results_in_app/part2_dashboard_screen.PNG" width="200"/> | <img src="results/results_in_app/notifications_screen.jpg" width="200"/> |
+
 
 > **📂 For More App Screenshots:** Check the [`app_screens/`](results/results_in_app/) folder.
 
 ---
 
-## **📱 Mobile App**
-We developed a **Flutter-based mobile app** to visualize attendance, dashboards, and employee activity.  
-Check the repo here → [Flutter App Repository](https://lnkd.in/dCmPassz)
+## **📱 Flutter App Source Code**
+The Flutter-based mobile app that displays dashboards, employee analytics, and alerts is available in a separate repository.  
+
+🔗 **[View Flutter App Repository](https://lnkd.in/dCmPassz)**
+
 
 ---
 
@@ -119,3 +141,23 @@ pip install -r requirements.txt
 
 # Run detection on a sample video
 python demo/demo.py --source sample_video.mp4 --model models/best.pt
+
+---
+## **📖 Citation**
+If you use or reference this work, please cite:  
+*ShiftWatch: Real-Time Workspace Employee Tracking & Monitoring System (Graduation Project, Kafrelsheikh University, 2025).*
+ --- 
+## **📬 Contact**
+👩‍💻 **Aya Motawea**  
+📧 Email: yoyomotawaa@gmail.com 
+🔗 LinkedIn: [linkedin.com/in/aya-motawea](www.linkedin.com/in/aya-motawea-661633251)  
+🐙 GitHub: [github.com/ayamotawea](https://github.com/ayamotawea)
+
+---
+<p align="center">
+  <img src="docs/logo_gp.png" alt="ShiftWatch Logo" width="100"/>
+</p>
+<p align="center">
+  Built with 💙 by Techno Team
+</p>
+

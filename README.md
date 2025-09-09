@@ -27,7 +27,7 @@ ShiftWatch is an **AI-powered real-time employee tracking and monitoring system*
 ---
 
 ## **🧩 System Architecture**
-![Our Proposed Architecture](docs/Our Proposed Architecture.PNG)
+![Our Proposed Architecture](docs/Our_Proposed_Architecture.PNG)
 
 ---
 

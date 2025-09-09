@@ -12,7 +12,7 @@ ShiftWatch is an **AI-powered real-time employee tracking and monitoring system*
 - **Azure Blob Storage** + **Firebase Realtime DB** for cloud-based scalability  
 - **Flutter mobile app** for real-time dashboards and insights  
 
-Published in the **Egyptian Journal of Artificial Intelligence, 2025**.
+
 
 ---
 
@@ -53,20 +53,12 @@ Check the repo here → [Flutter App Repository](https://github.com/your-colleag
 
 ---
 
-## **📄 Publication**
-This work is **published** in the **Egyptian Journal of Artificial Intelligence (EJAI, 2025)**.  
-**Citation:**  
-> Aya Motawea, Rana Elzeiny, Mahmoud AboGamihe, Abdelrahman Elmarakby.  
-> “Real-Time Workspace Employee Tracking and Monitoring System”, EJAI, Vol. 4, Issue 1, 2025.  
-[Read Paper](https://ejai.journals.ekb.eg)
-
----
 
 ## **👩‍💻 Contributions**
-- **Aya Motawea** → Lead AI Developer, Cloud Integration, System Architect
-- **Rana Elzeiny** → Data Preprocessing & Testing
+- **Aya Motawea** → Team Leader, AI Engineer, System Architect
+- **Rana Elzeiny** → Data Preprocessing & AI Engineer
 - **Mahmoud AboGamihe** → Mobile App Developer
-- **Abdelrahman Elmarakby** → Frontend & Data Visualization
+- **Abdelrahman Elmarakby** → Cloud Integration, Designer
 
 ---
 

@@ -6,7 +6,7 @@
 [![DeepSORT](https://img.shields.io/badge/Tracking-DeepSORT-green)]()
 
 <p align="center">
-  <img src="docs/logo_gp.png" alt="ShiftWatch Logo" width="200"/>
+  <img src="docs/logo_gp.png" alt="ShiftWatch Logo" width="400"/>
 </p>
 
 ShiftWatch is an **AI-powered real-time employee tracking and monitoring system** that combines:

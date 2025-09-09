@@ -68,12 +68,24 @@ ShiftWatch is an **AI-powered real-time employee tracking and monitoring system*
 
 
 
-### **Sample Outputs**
+### **🖼 Sample Outputs (AI Models)**
 | Detection | Face Recognition | Final Results |
 |-----------|------------------|---------------|
 | <img src="results/face_detection_yolov8/3.PNG" width="250"/> | <img src="results/face_recognition_results.PNG" width="250"/> | <img src="results/final_system.PNG" width="250"/> |
 
 > **📂 For More Examples:** Check the [`results/`](results/) folder for additional detection, tracking, recognition, and dashboard outputs.
+
+
+### **📱 Mobile App Dashboards**
+
+The **ShiftWatch** mobile app, built with **Flutter**, provides real-time insights for managers and HR.  
+It shows employee attendance, total hours, live alerts, and detailed dashboards.
+
+| Today Attendance Summary| Dashboard overview | Unauthorized Alerts |
+|--------------------|--------------------|---------------------|
+| <img src="results_in_app/home_screen.PNG" width="250"/> | <img src="results_in_app/part1_dashboard_screen.PNG" width="250"/> <img src="results_in_app/part2_dashboard_screen.PNG" width="250"/>  | <img src="results_in_app/notifications_screen.PNG" width="250"/> |
+
+> **📂 For More App Screenshots:** Check the [`app_screens/`](app_screens/) folder.
 
 ---
 

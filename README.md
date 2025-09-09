@@ -13,6 +13,9 @@
   <img src="docs/logo_gp.png" alt="ShiftWatch Logo" width="400"/>
 </p>
 
+<h3 align="center">Developed by Team InnovAI | Kafrelsheikh University</h3>
+
+
 ShiftWatch is an **AI-powered real-time employee tracking and monitoring system** that combines:
 - **YOLOv8** for face detection  
 - **DeepSORT** for identity-preserving tracking  
@@ -141,11 +144,12 @@ pip install -r requirements.txt
 
 # Run detection on a sample video
 python demo/demo.py --source sample_video.mp4 --model models/best.pt
-
+```
 ---
 ## **📖 Citation**
 If you use or reference this work, please cite:  
 *ShiftWatch: Real-Time Workspace Employee Tracking & Monitoring System (Graduation Project, Kafrelsheikh University, 2025).*
+
  --- 
 ## **📬 Contact**
 👩‍💻 **Aya Motawea**  

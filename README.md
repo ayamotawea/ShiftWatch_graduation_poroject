@@ -1,15 +1,13 @@
-
-<p align="center">
-  <img src="docs/logo_gp.png" alt="ShiftWatch Logo" width="100"/> <h1>ShiftWatch: Real-Time Workspace Employee Tracking & Monitoring System </h1>
-</p>
-
-
  
 # ShiftWatch: Real-Time Workspace Employee Tracking & Monitoring System
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue)]()
 [![YOLOv8](https://img.shields.io/badge/Model-YOLOv8-orange)]()
 [![DeepSORT](https://img.shields.io/badge/Tracking-DeepSORT-green)]()
+
+<p align="center">
+  <img src="docs/logo_gp.png" alt="ShiftWatch Logo" width="200"/>
+</p>
 
 ShiftWatch is an **AI-powered real-time employee tracking and monitoring system** that combines:
 - **YOLOv8** for face detection  

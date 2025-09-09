@@ -2,8 +2,12 @@
 # ShiftWatch: Real-Time Workspace Employee Tracking & Monitoring System
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue)]()
-[![YOLOv8](https://img.shields.io/badge/Model-YOLOv8-orange)]()
-[![DeepSORT](https://img.shields.io/badge/Tracking-DeepSORT-green)]()
+[![YOLOv8](https://img.shields.io/badge/YOLOv8-Object%20Detection-orange)]()
+[![DeepSORT](https://img.shields.io/badge/DeepSORT-Multi--Object%20Tracking-green)]()
+[![Firebase](https://img.shields.io/badge/Firebase-Realtime%20DB-yellow)]()
+[![Azure](https://img.shields.io/badge/Azure-Cloud%20Storage-blue)]()
+[![Flutter](https://img.shields.io/badge/Flutter-Mobile%20App-02569B)]()
+
 
 <p align="center">
   <img src="docs/logo_gp.png" alt="ShiftWatch Logo" width="400"/>

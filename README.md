@@ -74,8 +74,8 @@ ShiftWatch is an **AI-powered real-time employee tracking and monitoring system*
 | YOLOv12n  | 0.0214                      | 41.30 |
 
 > **Selected Model:** YOLOv8n → Best trade-off between speed & accuracy.
-> ---
-> 
+---
+
 ### **📈 Final Model Performance**
 
 | Metric           | Score |

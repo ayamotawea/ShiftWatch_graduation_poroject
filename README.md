@@ -50,7 +50,7 @@ ShiftWatch is an **AI-powered real-time employee tracking and monitoring system*
 
 ## **📱 Mobile App**
 We developed a **Flutter-based mobile app** to visualize attendance, dashboards, and employee activity.  
-Check the repo here → [Flutter App Repository]([https://github.com/your-colleague-repo-link](https://lnkd.in/dCmPassz))
+Check the repo here → [Flutter App Repository](https://lnkd.in/dCmPassz)
 
 ---
 

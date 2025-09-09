@@ -69,6 +69,7 @@ ShiftWatch is an **AI-powered real-time employee tracking and monitoring system*
 |-----------|------------------|---------------|
 | <img src="results/face_detection_yolov8/3.PNG" width="250"/> | <img src="results/face_recognition_results.PNG" width="250"/> | <img src="results/final_system.PNG" width="250"/> |
 
+> **📂 For More Examples:** Check the [`results/`](results/) folder for additional detection, tracking, recognition, and dashboard outputs.
 
 ---
 

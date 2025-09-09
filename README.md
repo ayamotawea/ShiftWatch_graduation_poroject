@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="docs/logo_gp.png" alt="ShiftWatch Logo" width="180"/>
+  <img src="docs/logo_gp.png" alt="ShiftWatch Logo" width="100"/>
   <h1>ShiftWatch: Real-Time Workspace Employee Tracking & Monitoring System </h1>
 </p>
 

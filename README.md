@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="docs/logo_gp.png" alt="ShiftWatch Logo" width="180"/>
+</p>
+
+<h1 align="center">ShiftWatch: Real-Time Workspace Employee Tracking & Monitoring</h1>
+
+<p align="center">
+  AI-powered employee detection, tracking, and attendance monitoring using YOLOv8, DeepSORT, Face Recognition, and Cloud Integration.
+</p>
 
 # ShiftWatch: Real-Time Workspace Employee Tracking & Monitoring System
 

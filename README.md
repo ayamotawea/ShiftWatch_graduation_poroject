@@ -23,8 +23,8 @@ ShiftWatch is an **AI-powered real-time employee tracking and monitoring system*
 > 🚀 **Impact:** ShiftWatch reduces manual attendance errors by 95%, increases workspace safety, and provides real-time insights for managers.
  
 <p align="center">
-  <img src="docs/project_idea.PNG" width="500"/>
-  <img src="docs/project_idea_comp.PNG" width="500"/>
+  <img src="docs/project_idea.PNG" width="400"/>
+  <img src="docs/project_idea_comp.PNG" width="400"/>
 </p>
 
 ---
@@ -45,7 +45,12 @@ ShiftWatch is an **AI-powered real-time employee tracking and monitoring system*
 ✅ Mobile dashboard for managers & HR  
 
 ---
-
+## **🌍 Use Cases**
+- **Corporate Offices** → Automate attendance & tracking
+- **Factories** → Monitor employee shifts & unauthorized entries
+- **Universities** → Track student & staff activity
+- **Healthcare** → Secure sensitive workspaces
+---
 ## **🧩 System Architecture**
 ![Our Proposed Architecture](docs/Our_Proposed_Architecture.PNG)
 
@@ -101,8 +106,11 @@ ShiftWatch is an **AI-powered real-time employee tracking and monitoring system*
 
 ### **📱 Mobile App Dashboards**
 
-The **ShiftWatch** mobile app, built with **Flutter**, provides real-time insights for managers and HR.  
-It shows employee attendance, total hours, live alerts, and detailed dashboards.
+The **ShiftWatch Flutter app** gives managers **real-time insights** into employee activities:
+- Live attendance tracking  
+- Total hours worked per employee  
+- Unauthorized entry alerts  
+- Daily, weekly, and monthly summaries 
 
 | Attendance Summary | Dashboard (Part 1) | Dashboard (Part 2) | Unauthorized Alerts |
 |--------------------|---------------------|---------------------|---------------------|

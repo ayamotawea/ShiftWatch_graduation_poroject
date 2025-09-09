@@ -1,4 +1,4 @@
-# ShiftWatch_graduation_poroject
+
 # ShiftWatch: Real-Time Workspace Employee Tracking & Monitoring System
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue)]()
@@ -13,8 +13,8 @@ ShiftWatch is an **AI-powered real-time employee tracking and monitoring system*
 - **Flutter mobile app** for real-time dashboards and insights  
 
 <p align="center">
-  <img src="docs/project_idea.PNG" width="400"/>
-  <img src="docs/project_idea_comp.PNG" width="400"/>
+  <img src="docs/project_idea.PNG" width="500"/>
+  <img src="docs/project_idea_comp.PNG" width="500"/>
 </p>
 
 ---

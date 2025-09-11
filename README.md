@@ -137,7 +137,7 @@ The Flutter-based mobile app that displays dashboards, employee analytics, and a
 
 
 ## **👩‍💻 Contributions**
-- **Aya Motawea** → Team Leader, AI Engineer, System Architect
+- **Aya Motawea** → Team Leader, AI Engineer, System Architect, UI Designer
 - **Rana Elzeiny** → Data Preprocessing & AI Engineer
 - **Mahmoud AboGamihe** → Mobile App Developer
 - **Abdelrahman Elmarakby** → Cloud Integration, Designer

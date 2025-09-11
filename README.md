@@ -1,12 +1,9 @@
  
 # ShiftWatch: Real-Time Workspace Employee Tracking & Monitoring System
-
-
 <p align="center">
   <img src="docs/logo_gp.png" alt="ShiftWatch Logo" width="400"/>
  <h2 align="center">Developed by Techno Team | Kafrelsheikh University</h2>
 </p>
-
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue)]()
 [![YOLOv8](https://img.shields.io/badge/YOLOv8-Object%20Detection-orange)]()

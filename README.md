@@ -47,6 +47,7 @@ ShiftWatch is an **AI-powered real-time employee tracking and monitoring system*
 ✅ Mobile dashboard for managers & HR  
 
 ---
+
 ## **🌍 Use Cases**
 - **Corporate Offices** → Automate attendance & tracking
 - **Factories** → Monitor employee shifts & unauthorized entries
